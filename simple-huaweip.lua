@@ -14,6 +14,7 @@ local action_val_map={
 	[0x03] = "(3)REQ_AUTH",
 	[0x04] = "(4)ACK_AUTH",
 	[0x05] = "(5)REQ_LOGOUT",
+	[0x06] = "(6)ACK_LOGOUT",
 	[0x07] = "(7)AFF_ACK_ATH",
 	[0x08] = "(8)NTF_LOGOUT",
 	[0x09] = "(9)REQ_INFO"
